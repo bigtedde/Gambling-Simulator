@@ -1,0 +1,2 @@
+# Gambling-Simulator
+Simulated gambling
