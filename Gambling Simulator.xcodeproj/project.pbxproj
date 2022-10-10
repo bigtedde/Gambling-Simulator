@@ -16,6 +16,7 @@
 		9F46C95528F397C600ACD9E9 /* Gambling_SimulatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F46C95428F397C600ACD9E9 /* Gambling_SimulatorTests.swift */; };
 		9F46C95F28F397C600ACD9E9 /* Gambling_SimulatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F46C95E28F397C600ACD9E9 /* Gambling_SimulatorUITests.swift */; };
 		9F46C96128F397C600ACD9E9 /* Gambling_SimulatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F46C96028F397C600ACD9E9 /* Gambling_SimulatorUITestsLaunchTests.swift */; };
+		9F46C97028F3B3C500ACD9E9 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F46C96F28F3B3C500ACD9E9 /* Game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9F46C95A28F397C600ACD9E9 /* Gambling SimulatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Gambling SimulatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F46C95E28F397C600ACD9E9 /* Gambling_SimulatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gambling_SimulatorUITests.swift; sourceTree = "<group>"; };
 		9F46C96028F397C600ACD9E9 /* Gambling_SimulatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gambling_SimulatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9F46C96F28F3B3C500ACD9E9 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				9F46C94628F397C600ACD9E9 /* Assets.xcassets */,
 				9F46C94828F397C600ACD9E9 /* LaunchScreen.storyboard */,
 				9F46C94B28F397C600ACD9E9 /* Info.plist */,
+				9F46C96F28F3B3C500ACD9E9 /* Game.swift */,
 			);
 			path = "Gambling Simulator";
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				9F46C94228F397C400ACD9E9 /* ViewController.swift in Sources */,
 				9F46C93E28F397C400ACD9E9 /* AppDelegate.swift in Sources */,
 				9F46C94028F397C400ACD9E9 /* SceneDelegate.swift in Sources */,
+				9F46C97028F3B3C500ACD9E9 /* Game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
